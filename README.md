@@ -91,23 +91,6 @@ If you use this repository, please cite our work:
 }
 ```
 
----
 
-## 🔐 Encryption & Deployment
-
-For proprietary scenarios:
-
-- 🔒 Distribute only `.jar` binaries  
-- 🛡️ Obfuscate bytecode via [ProGuard](https://www.guardsquare.com/proguard/)  
-- 📜 Customize license terms to restrict commercial usage  
-
----
-
-## 📬 Contact
-
-For inquiries or collaboration:
-
-- ✉️ Email: rgyhcshield@163.com  
 - 🌐 Affiliation: Nantong University, China
 
-_Last updated: 2025-08-06_
