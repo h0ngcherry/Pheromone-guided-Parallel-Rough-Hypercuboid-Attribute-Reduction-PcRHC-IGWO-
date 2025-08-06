@@ -29,9 +29,8 @@ It is especially effective for large-scale feature selection tasks in distribute
 ├── src/
 │   └── RHC_BGWO.scala           # Core implementation of PcRHC-IGWO
 ├── dataset/
-│   └── BASEHOCK_sampled_pca.csv  # Sample dataset
+│   └── sample.csv               # Sample dataset
 ├── README.md                    # Project documentation
-└── LICENSE                      # License file (e.g., Apache 2.0 or MIT)
 ```
 
 ---
