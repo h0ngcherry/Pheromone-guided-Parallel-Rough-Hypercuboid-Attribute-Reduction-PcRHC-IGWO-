@@ -62,7 +62,7 @@ spark-submit \
   target/scala-2.11/pc-rhc-igwo_2.11-1.0.jar
 ```
 
-Make sure the dataset path (`dataset/BASEHOCK_sampled_pca.csv`) is correctly placed or modified in code.
+Make sure the dataset path (`dataset/sample.csv`) is correctly placed or modified in code.
 
 ---
 
